@@ -30,4 +30,6 @@ alias \
 	xi="sudo xbps-install" \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
+    bat="cat /sys/class/power_supply/BAT?/capacity" \
+    D="cd ~/Downloads/" \
 	z="zathura"
