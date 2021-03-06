@@ -1,0 +1,67 @@
+"---Looks Myth---"
+http://lukesmith.xyz/rss.xml
+https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 "~Looks Myth (PeerTube)"
+https://lukesmith.xyz/peertube "~Looks Myth (PeerTube)"
+https://lukesmith.xyz/youtube "~Luke Smith (YouTube)"
+https://notrelated.libsyn.com/rss
+https://github.com/LukeSmithxyz/grb/commits/master.atom
+https://github.com/LukeSmithxyz/kjv/commits/master.atom
+https://github.com/LukeSmithxyz/vul/commits/master.atom
+https://github.com/LukeSmithxyz/st/commits/master.atom
+"---Me---"
+https://nkostin.neocities.org/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7BE86C3SndkN0foWRLS6fg "~Nicholas Kostin (YouTube)"
+"---Mental Outlaw---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
+https://github.com/MentalOutlaw/deploygentoo/commits/master.atom
+https://github.com/MentalOutlaw/dwm/commits/master.atom
+"---Distrotube---"
+https://www.distrotube.com/videos/index.xml "~Distrotube"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube (YouTube)"
+"---3Blue1Brown and Manim---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown (YouTube)"
+https://github.com/3b1b/manim/commits/master.atom
+https://github.com/vivek3141/videos/commits/master.atom
+https://nitter.net/3blue1brown/rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxiWCEdx7aY88bSEUgLOC6A "~Theorem of Beethoven (YouTube)"
+"---Interesting Videos---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCisjF-Un7hf9lsMhoStF3OQ "~Epic Math Time (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtAIs1VCQrymlAnw3mGonhw "~Papa Flammy (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A "~Numberphile (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_eJpdPNfSSpFuQ7ldkrp-g "~Pat Kohl"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHAwDVSS8oDLLln07cNdU6A "~Alex Flournoy"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrv269YwJzuZL3dH5PCgxUw "~CodeParade (YouTube)"
+"---Tech---"
+https://suckless.org/atom.xml
+https://artixlinux.org/feed.php
+https://www.archlinux.org/feeds/news/
+https://blog.linuxmint.com/?feed=rss2
+https://forum.manjaro.org/c/announcements/11.rss
+https://distrowatch.com/news/dw.xml
+https://voidlinux.org/atom.xml
+https://www.raspberrypi.org/blog/feed/
+"---Mobile---"
+https://lineageos.org/feed.xml
+https://www.pine64.org/feed/
+"---Vim Related Stuff---"
+https://github.com/vim/vim/commits/master.atom
+https://github.com/neovim/neovim/commits/master.atom
+https://github.com/junegunn/vim-plug/commits/master.atom
+https://github.com/lervag/vimtex/commits/master.atom
+https://github.com/philc/vimium/commits/master.atom
+"---Other Software Projects---"
+https://github.com/ytdl-org/youtube-dl/commits/master.atom
+https://github.com/HackerPoet/MarbleMarcher/commits/master.atom
+https://github.com/vivien/i3blocks-contrib/commits/master.atom
+https://github.com/vectorgraphics/asymptote/commits/master.atom
+https://github.com/chubin/wttr.in/commits/master.atom
+https://github.com/StevenBlack/hosts/commits/master.atom
+"---Daryush Valizadeh---"
+https://feeds.feedburner.com/dcb "~Roosh"
+https://www.rooshv.com/feed "~Roosh"
+https://feeds.feedburner.com/KingmakerPodcast "~Roosh Hour Podcast"
+https://nitter.net/rooshv/rss
+"---Other---"
+https://nitter.net/NickJFuentes/rss
+https://feeds.feedburner.com/zerohedge/feed
+https://nitter.net/realDonaldTrump/rss

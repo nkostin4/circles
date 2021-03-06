@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# I use startx/xinit like a Chad, so this file will also be sourced.
+
+xwallpaper --zoom ~/.local/share/sky.jpg
+xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources &
+xcompmgr &		# xcompmgr for transparency
+# xset r rate 300 50 &	# Speed xrate up
