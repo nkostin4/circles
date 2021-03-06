@@ -1,3 +1,6 @@
+"---Me---"
+https://nkostin.neocities.org/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7BE86C3SndkN0foWRLS6fg "~Nicholas Kostin (YouTube)"
 "---Looks Myth---"
 http://lukesmith.xyz/rss.xml
 https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 "~Looks Myth (PeerTube)"
@@ -8,9 +11,11 @@ https://github.com/LukeSmithxyz/grb/commits/master.atom
 https://github.com/LukeSmithxyz/kjv/commits/master.atom
 https://github.com/LukeSmithxyz/vul/commits/master.atom
 https://github.com/LukeSmithxyz/st/commits/master.atom
-"---Me---"
-https://nkostin.neocities.org/rss.xml
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7BE86C3SndkN0foWRLS6fg "~Nicholas Kostin (YouTube)"
+"---Daryush Valizadeh---"
+https://feeds.feedburner.com/dcb "~Roosh"
+https://www.rooshv.com/feed "~Roosh"
+https://feeds.feedburner.com/KingmakerPodcast "~Roosh Hour Podcast"
+https://nitter.net/rooshv/rss
 "---Mental Outlaw---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
 https://github.com/MentalOutlaw/deploygentoo/commits/master.atom
@@ -56,11 +61,6 @@ https://github.com/vivien/i3blocks-contrib/commits/master.atom
 https://github.com/vectorgraphics/asymptote/commits/master.atom
 https://github.com/chubin/wttr.in/commits/master.atom
 https://github.com/StevenBlack/hosts/commits/master.atom
-"---Daryush Valizadeh---"
-https://feeds.feedburner.com/dcb "~Roosh"
-https://www.rooshv.com/feed "~Roosh"
-https://feeds.feedburner.com/KingmakerPodcast "~Roosh Hour Podcast"
-https://nitter.net/rooshv/rss
 "---Other---"
 https://nitter.net/NickJFuentes/rss
 https://feeds.feedburner.com/zerohedge/feed
