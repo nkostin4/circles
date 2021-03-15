@@ -2,7 +2,7 @@
 
 # I use startx/xinit like a Chad, so this file will be sourced.
 
-xwallpaper --zoom ${XDG_DATA_HOME:-$HOME/.local/share}/sky.jpg
+xwallpaper --zoom ${XDG_DATA_HOME:-$HOME/.local/share}/lorenz.png
 xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources &
 xcompmgr &		# xcompmgr for transparency
 slstatus &
