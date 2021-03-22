@@ -16,7 +16,15 @@ https://github.com/LukeSmithxyz/st/commits/master.atom
 https://feeds.feedburner.com/dcb "~Roosh"
 https://www.rooshv.com/feed "~Roosh"
 https://feeds.feedburner.com/KingmakerPodcast "~Roosh Hour Podcast"
+https://www.rooshvforum.com/forums/-/index.rss
 https://nitter.net/rooshv/rss
+"---Orthodox Christianity---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkpBmkoZ6yToHhB8uFDp46Q "~Father Spyridon (YouTube)"
+https://jaysanalysis.com/feed/
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnt7Iy8GlmdPwy_Tzyx93bA "~Jay Dyer (Youtube)"
+"---Catholicism---"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqqN2e5-zgkQhHOs-ailqBQ "~vaticancatholic.com (YouTube)"
+https://nitter.net/NickJFuentes/rss
 "---Mental Outlaw---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
 https://github.com/MentalOutlaw/deploygentoo/commits/master.atom
@@ -62,12 +70,6 @@ https://github.com/vivien/i3blocks-contrib/commits/master.atom
 https://github.com/vectorgraphics/asymptote/commits/master.atom
 https://github.com/chubin/wttr.in/commits/master.atom
 https://github.com/StevenBlack/hosts/commits/master.atom
-"---Jay Dyer---"
-https://jaysanalysis.com/feed/
-https://www.youtube.com/feeds/videos.xml?channel_id=UCnt7Iy8GlmdPwy_Tzyx93bA "~Jay Dyer (Youtube)"
-"---Catholicism---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCqqN2e5-zgkQhHOs-ailqBQ "~vaticancatholic.com (YouTube)"
-https://nitter.net/NickJFuentes/rss
 "---News---"
 https://feeds.feedburner.com/zerohedge/feed
 https://nitter.net/realDonaldTrump/rss
