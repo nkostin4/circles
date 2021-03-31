@@ -13,30 +13,20 @@ https://github.com/LukeSmithxyz/kjv/commits/master.atom
 https://github.com/LukeSmithxyz/vul/commits/master.atom
 https://github.com/LukeSmithxyz/st/commits/master.atom
 "---Daryush Valizadeh---"
-https://feeds.feedburner.com/dcb "~Roosh"
-https://www.rooshv.com/feed "~Roosh"
+https://www.rooshv.com/feed "~Roosh V"
 https://feeds.feedburner.com/KingmakerPodcast "~Roosh Hour Podcast"
 https://www.rooshvforum.com/forums/-/index.rss
-https://nitter.net/rooshv/rss
-"---Orthodox Christianity---"
+"---Others---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkpBmkoZ6yToHhB8uFDp46Q "~Father Spyridon (YouTube)"
 https://jaysanalysis.com/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnt7Iy8GlmdPwy_Tzyx93bA "~Jay Dyer (Youtube)"
-"---Catholicism---"
+https://culturewars.com/news?format=rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqqN2e5-zgkQhHOs-ailqBQ "~vaticancatholic.com (YouTube)"
-https://nitter.net/NickJFuentes/rss
-"---Mental Outlaw---"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
-https://github.com/MentalOutlaw/deploygentoo/commits/master.atom
-https://github.com/MentalOutlaw/dwm/commits/master.atom
-"---Distrotube---"
-https://www.distrotube.com/videos/index.xml "~Distrotube"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube (YouTube)"
 "---3Blue1Brown and Manim---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown (YouTube)"
 https://github.com/3b1b/manim/commits/master.atom
+https://github.com/ManimCommunity/manim/commits/master.atom
 https://github.com/vivek3141/videos/commits/master.atom
-https://nitter.net/3blue1brown/rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UCxiWCEdx7aY88bSEUgLOC6A "~Theorem of Beethoven (YouTube)"
 "---Interesting Videos---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCisjF-Un7hf9lsMhoStF3OQ "~Epic Math Time (YouTube)"
@@ -46,6 +36,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC_eJpdPNfSSpFuQ7ldkrp-g "~P
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHAwDVSS8oDLLln07cNdU6A "~Alex Flournoy"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrv269YwJzuZL3dH5PCgxUw "~CodeParade (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "~Wolfgang's Channel (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~Distrotube (YouTube)"
 "---Tech---"
 https://suckless.org/atom.xml
 https://artixlinux.org/feed.php
@@ -69,6 +61,3 @@ https://github.com/HackerPoet/MarbleMarcher/commits/master.atom
 https://github.com/vectorgraphics/asymptote/commits/master.atom
 https://github.com/chubin/wttr.in/commits/master.atom
 https://github.com/StevenBlack/hosts/commits/master.atom
-"---News---"
-https://feeds.feedburner.com/zerohedge/feed
-https://nitter.net/realDonaldTrump/rss
