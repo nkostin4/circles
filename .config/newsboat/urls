@@ -1,28 +1,19 @@
-"---Me---"
-https://nkostin.neocities.org/rss.xml
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7BE86C3SndkN0foWRLS6fg "~Nicholas Kostin (YouTube)"
-"---Looks Myth---"
-http://lukesmith.xyz/rss.xml
-https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 "~Looks Myth (PeerTube)"
-https://lukesmith.xyz/peertube "~Looks Myth (PeerTube)"
-https://lukesmith.xyz/youtube "~Luke Smith (YouTube)"
-https://notrelated.libsyn.com/rss
-https://based.cooking/rss.xml
-https://github.com/LukeSmithxyz/grb/commits/master.atom
-https://github.com/LukeSmithxyz/kjv/commits/master.atom
-https://github.com/LukeSmithxyz/vul/commits/master.atom
-https://github.com/LukeSmithxyz/st/commits/master.atom
-"---Daryush Valizadeh---"
-https://www.rooshv.com/feed "~Roosh V"
+https://www.rooshv.com/feed "~Daryush Valizadeh"
 https://feeds.feedburner.com/KingmakerPodcast "~Roosh Hour Podcast"
 https://www.rooshvforum.com/forums/-/index.rss
-"---Others---"
 https://orthochristian.com/xml/rss.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkpBmkoZ6yToHhB8uFDp46Q "~Father Spyridon (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtMjnFbRQplYQNi9pLhePlQ "~Brother Augustine (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCU4HyIT9HHW349_7LWFc0_A "~Orthodoxy First (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH8JwgaHCkhdfERVkGbLl2g "~Church of the Eternal Logos (YouTube)"
 https://jaysanalysis.com/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnt7Iy8GlmdPwy_Tzyx93bA "~Jay Dyer (Youtube)"
 https://culturewars.com/news?format=rss
-https://www.youtube.com/feeds/videos.xml?channel_id=UCqqN2e5-zgkQhHOs-ailqBQ "~vaticancatholic.com (YouTube)"
+"---Looks Myth---"
+https://lukesmith.xyz/rss.xml
+https://lukesmith.xyz/videos
+https://notrelated.xyz/rss
+https://github.com/LukeSmithxyz/st/commits/master.atom
 "---3Blue1Brown and Manim---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown (YouTube)"
 https://github.com/3b1b/manim/commits/master.atom
@@ -62,3 +53,6 @@ https://github.com/HackerPoet/MarbleMarcher/commits/master.atom
 https://github.com/vectorgraphics/asymptote/commits/master.atom
 https://github.com/chubin/wttr.in/commits/master.atom
 https://github.com/StevenBlack/hosts/commits/master.atom
+"---Me---"
+https://nkostin.neocities.org/rss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7BE86C3SndkN0foWRLS6fg "~Nicholas Kostin (YouTube)"
