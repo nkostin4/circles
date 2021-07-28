@@ -1,5 +1,7 @@
 !! Colorscheme
 
+*.font: inconsolata:pixelsize=20:antialias=true:autohint=true;
+
 ! special
 *.foreground:   #c5c8c6
 *.background:   #000000
