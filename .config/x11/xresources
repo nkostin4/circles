@@ -69,6 +69,3 @@ URxvt.url-select.launcher: /usr/bin/xdg-open
 URxvt.url-select.underline: true
 !! keyboard-select
 URxvt.keysym.M-Escape: perl:keyboard-select:activate
-!! resize-font
-URxvt.resize-font.smaller: C-j
-URxvt.resize-font.bigger: C-k
