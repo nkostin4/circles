@@ -1,6 +1,6 @@
 #!/bin/sh
 
-xwallpaper --zoom ${XDG_DATA_HOME:-$HOME/.local/share}/wallpaper.jpg
+xwallpaper --zoom ${XDG_DATA_HOME:-$HOME/.local/share}/0001.jpg
 xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources &
 xcompmgr &
 slstatus &
