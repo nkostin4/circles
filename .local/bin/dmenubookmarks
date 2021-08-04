@@ -1,0 +1,19 @@
+#!/bin/sh
+
+bookmarklist="
+My GitHub               https://github.com/nkostin4
+Luke's Webpage          https://lukesmith.xyz/
+LandChad                https://landchad.net/
+Wolfgang's Webpage      https://notthebe.ee/
+Suckless                https://suckless.org/
+Artix Linux             https://artixlinux.org/
+Arch Wiki               https://wiki.archlinux.org/
+GitHub PPAs             https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+Asymptote GS            https://sourceforge.net/p/asymptote/discussion/409349/thread/a52414e613/
+Manim Docs              https://www.manim.community/
+Groff Cheatsheet        https://l04db4l4nc3r.github.io/groff-cheatsheet/
+"
+
+# echo "$bookmarklist" | grep -P "^$(echo "$bookmarklist" | grep "https:" | sed 's/\t.*//g' | dmenu -i -p "Which bookmark? (ESC to cancel)" -l 20 | awk '{print $1}')\s" | sed 's/.*  //' | xclip -selection clipboard
+
+echo "$bookmarklist" | grep -P "^$(echo "$bookmarklist" | grep "https:" | sed 's/\t.*//g' | dmenu -i -p "Which bookmark? (ESC to cancel)" -l 20 | awk '{print $1}')\s" | sed 's/.*  //' | xargs -r $BROWSER
