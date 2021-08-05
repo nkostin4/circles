@@ -6,7 +6,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCkpBmkoZ6yToHhB8uFDp46Q "~F
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtMjnFbRQplYQNi9pLhePlQ "~Brother Augustine (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCU4HyIT9HHW349_7LWFc0_A "~Orthodoxy First (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCH8JwgaHCkhdfERVkGbLl2g "~Church of the Eternal Logos (YouTube)"
-https://jaysanalysis.com/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnt7Iy8GlmdPwy_Tzyx93bA "~Jay Dyer (Youtube)"
 https://culturewars.com/news?format=rss
 "---Looks Myth---"
@@ -39,19 +38,11 @@ https://blog.linuxmint.com/?feed=rss2
 https://forum.manjaro.org/c/announcements/11.rss
 https://distrowatch.com/news/dw.xml
 https://voidlinux.org/atom.xml
-"---Mobile---"
-https://lineageos.org/feed.xml
-https://www.pine64.org/feed/
-"---Vim Related Stuff---"
-https://github.com/vim/vim/commits/master.atom
-https://github.com/neovim/neovim/commits/master.atom
-https://github.com/junegunn/vim-plug/commits/master.atom
-https://github.com/lervag/vimtex/commits/master.atom
-https://github.com/philc/vimium/commits/master.atom
 "---Other Software Projects---"
 https://github.com/Eloston/ungoogled-chromium/commits/master.atom
 https://github.com/ytdl-org/youtube-dl/commits/master.atom
 https://github.com/HackerPoet/MarbleMarcher/commits/master.atom
+https://github.com/lervag/vimtex/commits/master.atom
 https://github.com/vectorgraphics/asymptote/commits/master.atom
 https://github.com/chubin/wttr.in/commits/master.atom
 https://github.com/StevenBlack/hosts/commits/master.atom
