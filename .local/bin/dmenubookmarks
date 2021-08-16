@@ -2,10 +2,7 @@
 
 bookmarklist="
 Nicholas D. Kostin      https://nkostin.xyz/
-My GitHub               https://github.com/nkostin4
 Luke's Webpage          https://lukesmith.xyz/
-LandChad                https://landchad.net/
-Wolfgang's Webpage      https://notthebe.ee/
 Suckless                https://suckless.org/
 Artix Linux             https://artixlinux.org/
 Arch Wiki               https://wiki.archlinux.org/
@@ -15,6 +12,7 @@ Manim Docs              https://www.manim.community/
 Groff Cheatsheet        https://l04db4l4nc3r.github.io/groff-cheatsheet/
 Time and Date           https://www.timeanddate.com/
 Epoch Timestamp         https://epochtimestamp.com/
+Wolfgang's Webpage      https://notthebe.ee/
 "
 
 # echo "$bookmarklist" | grep -P "^$(echo "$bookmarklist" | grep "https:" | sed 's/\t.*//g' | dmenu -i -p "Which bookmark? (ESC to cancel)" -l 20 | awk '{print $1}')\s" | sed 's/.*  //' | xclip -selection clipboard
