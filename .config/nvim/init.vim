@@ -25,6 +25,7 @@ endif
 
 call plug#begin('~/.config/nvim/plugged')
 
+Plug 'ap/vim-css-color'
 Plug 'lervag/vimtex'
 let g:tex_flavor = 'latex'
 
