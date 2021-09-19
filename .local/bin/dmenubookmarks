@@ -15,6 +15,7 @@ Time and Date           https://www.timeanddate.com/
 Epoch Timestamp         https://epochtimestamp.com/
 Wolfgang's Webpage      https://notthebe.ee/
 Rudy Hill               https://rudyghill.com/
+Kris Occhipinti         https://filmsbykris.com/v7/
 "
 
 # echo "$bookmarklist" | grep -P "^$(echo "$bookmarklist" | grep "https:" | sed 's/\t.*//g' | dmenu -i -p "Which bookmark? (ESC to cancel)" -l 20 | awk '{print $1}')\s" | sed 's/.*  //' | xclip -selection clipboard
