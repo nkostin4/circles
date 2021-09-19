@@ -1,7 +1,6 @@
 #!/bin/sh
 
 bookmarklist="
-nkostin                 https://nkostin.xyz/
 Luke's Webpage          https://lukesmith.xyz/
 Bible Hub               https://biblehub.com/st/john/1.htm
 Suckless                https://suckless.org/
