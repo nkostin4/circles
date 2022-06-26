@@ -1,4 +1,7 @@
 https://www.youtube.com/feeds/videos.xml?channel_id=UCL4BwOrBEKggPyqsdVpraFg "~Johe News (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWnNKC1wrH_NXAXc5bhbFnA "~Дмитрий Пучков (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsKiNBoIWLpIxU6vsAv3v3w "~Артемий Лебедев (YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY_5y5X34AxL_uWTPNndxog "~DimaViper Live (YouTube)"
 https://www.rooshv.com/feed "~Daryush Valizadeh"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkpBmkoZ6yToHhB8uFDp46Q "~Father Spyridon (YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtMjnFbRQplYQNi9pLhePlQ "~Brother Augustine (YouTube)"
@@ -6,19 +9,17 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCH8JwgaHCkhdfERVkGbLl2g "~C
 https://culturewars.com/news?format=rss
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "~Mental Outlaw (YouTube)"
 https://filmsbykris.com/rss.xml
-"---Looks Myth---"
-https://lukesmith.xyz/rss.xml
-https://lukesmith.xyz/peertube
-https://odysee.com/$/rss/@Luke/70
+"---Luke Smith---"
+https://lukesmith.xyz/rss
+https://lukesmith.xyz/videos
 https://notrelated.xyz/rss
-https://landchad.net/rss.xml
 "---Tech---"
 https://suckless.org/atom.xml
 https://artixlinux.org/feed.php
 https://www.archlinux.org/feeds/news/
 https://distrowatch.com/news/dw.xml
 "---Other Software Projects---"
-https://github.com/Eloston/ungoogled-chromium/commits/master.atom
+https://github.com/ungoogled-software/ungoogled-chromium/commits/master.atom
 https://github.com/ytdl-org/youtube-dl/commits/master.atom
 https://github.com/HackerPoet/MarbleMarcher/commits/master.atom
 https://github.com/lervag/vimtex/commits/master.atom
